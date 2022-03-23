@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrushnaPawar13
+- 👋 Hi, I’m Trushna Pawar
 - 👀 I’m interested in developing web applications and chatbots
 - 🌱 I’m currently learning bot framework
 - 💞️ I’m looking to collaborate on anything
